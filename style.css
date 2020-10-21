@@ -1,0 +1,33 @@
+
+body{
+	    background-color: #80808038;
+}
+
+div {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    padding: 50px;
+}
+h1{
+	
+    text-align: center;
+
+}
+		img{
+			max-width: 31%;
+		}
+		span{
+			
+color: #ce6a8b;
+			
+text-shadow: 16px 11px 19px darkolivegreen;
+			
+text-transform: capitalize;
+		}
+		p{
+    font-size: 20px;
+    color: darkred;
+    line-height: 1.5;
+}
